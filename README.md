@@ -11,6 +11,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - 4-Page Report Due January 30th (Methods and Code Verification for Winning Teams). Please list the names of your team members in the right order for future acknowledgement
 - [Pretest Results](Pretest/Results): Note the submitted pretest results are self-reported, are not verified and have no influence on the final evaluation, the model parameters are also unknown
 - ** We updated the testing data for Material C on Nov. 21. Please use the updated version in Dropbox.**
+- Please [Sign-Up](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=CMYDM959&tcType=IEEE%20Power%20Electronics%20Society%20Membership) to become a member or student member of PELS TC10 to support MagNet Challenge
 
 ## [News #9] MagNet Tutorial 6
 - Tutorial 6 (October 30 10am EST): [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
