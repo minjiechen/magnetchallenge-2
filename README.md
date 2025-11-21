@@ -10,7 +10,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Final Submission Due January 15th (CSV Results and Num. of Parameters)
 - 4-Page Report Due January 30th (Methods and Code Verification for Winning Teams). Please list the names of your team members in the right order for future acknowledgement
 - [Pretest Results](Pretest/Results): Note the submitted pretest results are self-reported, are not verified and have no influence on the final evaluation, the model parameters are also unknown
-- ** We updated the data for Material C on Nov. 21. Please use the updated version in Dropbox.**
+- ** We updated the testing data for Material C on Nov. 21. Please use the updated version in Dropbox.**
 
 ## [News #9] MagNet Tutorial 6
 - Tutorial 6 (October 30 10am EST): [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
