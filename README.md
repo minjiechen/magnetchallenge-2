@@ -6,11 +6,11 @@
 ## [News #10] MagNet Challenge 2 - Final Data Released
 Training and testing data released for 5 new materials [A, B, C, D, E]:
 - [MagNet Challenge 2 Data](https://www.dropbox.com/scl/fo/o07x7fa6d5elev19pzd1w/AISuBEWf8LQVszFeoaTlqY4?rlkey=8ec7mqukfr9no61h193zb4qdb&dl=0) under "Final Evaluation"
+- ** We updated the testing data for Material C on Nov. 21. Please use the updated version in Dropbox.**
 - Please note there is a "Template.zip" folder which serves as a template for final submission
 - Final Submission Due January 15th (CSV Results and Num. of Parameters)
 - 4-Page Report Due January 30th (Methods and Code Verification for Winning Teams). Please list the names of your team members in the right order for future acknowledgement
 - [Pretest Results](Pretest/Results): Note the submitted pretest results are self-reported, are not verified and have no influence on the final evaluation, the model parameters are also unknown
-- ** We updated the testing data for Material C on Nov. 21. Please use the updated version in Dropbox.**
 - Please [Sign-Up](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=CMYDM959&tcType=IEEE%20Power%20Electronics%20Society%20Membership) to become a member or student member of PELS TC10 to support MagNet Challenge
 
 ## [News #9] MagNet Tutorial 6
