@@ -93,7 +93,6 @@ for n = 1 : ttl_segs  % Loop through each prediction length data seperately
     energy_loss_m = H_mid_m .* dB;
     
     % Total normalized energy error
-    energy_abs_m = sum(abs(H_mid_m .* dB), 2);
     diff_ene =  energy_loss_p - energy_loss_m;
     ene_error = sum(diff_ene , 2) ./ abs(Core_loss) * 100;
 
