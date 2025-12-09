@@ -72,7 +72,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - TU Munich & FU Santa Catarina, Germany & Brazil 🇩🇪 🇧🇷 ✅
 - Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪 ✅
 - KU Leuven, Belgium, 🇧🇪 ✅ 👍
-- University of Bristol, UK 🇬🇧 ✅
+- University of Bristol, UK 🇬🇧 ✅ 👍
 - University of Cambridge, UK 🇬🇧 ✅
 - Politecnico di Torino, Italy 🇮🇹 ✅
 - Tokyo Metropolitan University, Japan 🇯🇵 ✅
