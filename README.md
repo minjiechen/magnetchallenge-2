@@ -5,10 +5,12 @@
 
 ## [News #11] APEC Ceremony
 We are planning an Award Ceremony of MagNet Challenge 2 in APEC 2026. Please send an email to pelsmagnet@gmail.com with the following information:
+
 - Name of your team? XXX
 - Are you on track to submit your final results to us before Jan 15? Yes or No
 - Will your team send one or more representatives to attend the Award Ceremony during APEC?  Yes or No
 - How many people (team members, guests, colleagues) do you plan to bring to the award ceremony? Expected Total Number.
+
 We look forward to seeing many of you in San Antonio in March. 
 
 ## [News #10] MagNet Challenge 2 - Final Data Released
