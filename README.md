@@ -56,7 +56,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Xi'an Jiaotong University (Zhu2), China 🇨🇳 ✅
 - Xi'an Jiaotong University (Wei), China 🇨🇳 ✅ 👍
 - Xi'an Jiaotong University (Chen), China 🇨🇳 ✅
-- Fuzhou University, China 🇨🇳 ✅ 👍
+- Fuzhou University, China 🇨🇳 ✅ 👍 🏁
 - Hangzhou Dianzi University, China 🇨🇳 ✅
 - Southeast University (Cheng), China 🇨🇳 ✅ 👍
 - Southeast University (Xu), China 🇨🇳 ✅
@@ -65,7 +65,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Hefei University of Technology, China 🇨🇳 ✅
 - Huazhong University of Science and Technology, China 🇨🇳 ✅
 - University of Electronic Science and Technology of China, China 🇨🇳 ✅
-- Zhejiang University, China 🇨🇳 ✅
+- Zhejiang University, China 🇨🇳 ✅ 🏁
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 ✅
 - Seigen & Paderborn, Germany 🇩🇪 ✅ 👍
 - University of Kassel, Germany 🇩🇪 ✅
@@ -79,7 +79,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Nagoya Institute of Technology, Japan 🇯🇵 ✅
 - Nanyang Technological University (Yang), Singapore 🇸🇬 ✅
 - Nanyang Technological University (Tang), Singapore 🇸🇬 ✅
-- University of Sydney, Australia 🇦🇺 ✅ 👍
+- University of Sydney, Australia 🇦🇺 ✅ 👍 🏁
 - National Institute of Technology Calicut (Mohan), India 🇮🇳 ✅
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳 ✅
 - Indian Institute of Technology Dharwad, India 🇮🇳 ✅
@@ -96,7 +96,6 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Wurth Electronik ($5000)
 - ITG Electronics ($5000)
 - pSemi ($5000)
-- TSMC ($5000)
 - IEEE Power Electronics Society ($35000)
 - Princeton University (as much as needed!)
 
