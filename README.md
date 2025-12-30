@@ -46,7 +46,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Tutorial 5 (September 12): New Models and Discussion by @ [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=-CtfTw9098c), [Slides](Pretest/Webinar-5-2025.pdf)
 - Tutorial 6 (October 30): Final Evaluation @ [Hyukjae Kwon](https://github.com/hk1715). [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
 
-## [News #5] 40 Teams Confirmed, ✅:Concept Paper Received, 👍: Pre-test Received
+## [News #5] 40 Teams Confirmed, ✅:Concept Paper, 👍: Pre-test, 🏁: Final
 - Aalborg University (Zhao), Denmark 🇩🇰 ✅ 👍
 - Aalborg University (Davari), Denmark 🇩🇰 ✅ 👍
 - University of Auckland, New Zealand 🇳🇿 ✅
