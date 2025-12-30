@@ -11,7 +11,7 @@ We are planning an Award Ceremony of MagNet Challenge 2 in APEC 2026. Please sen
 - Will your team send one or more representatives to attend the Award Ceremony during APEC?  Yes or No
 - How many people (team members, guests, colleagues) do you plan to bring to the award ceremony? Expected Total Number.
 
-We look forward to seeing many of you in San Antonio in March. 
+We look forward to seeing many of you in San Antonio in March!
 
 ## [News #10] MagNet Challenge 2 - Final Data Released
 Training and testing data released for 5 new materials [A, B, C, D, E]:
