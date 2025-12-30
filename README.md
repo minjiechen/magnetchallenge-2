@@ -3,7 +3,7 @@
 
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
-## [News #11] APEC Ceremony
+## [News #11] Award Ceremony in APEC 2026
 We are planning an Award Ceremony of MagNet Challenge 2 in APEC 2026. Please send an email to pelsmagnet@gmail.com with the following information:
 
 - Name of your team? XXX
