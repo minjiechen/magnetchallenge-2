@@ -3,6 +3,14 @@
 
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
+## [News #11] APEC Ceremony
+We are planning an Award Ceremony of MagNet Challenge 2 in APEC 2026. Please send an email to pelsmagnet@gmail.com with the following information:
+- Name of your team? XXX
+- Are you on track to submit your final results to us before Jan 15? Yes or No
+- Will your team send one or more representatives to attend the Award Ceremony during APEC?  Yes or No
+- How many people (team members, guests, colleagues) do you plan to bring to the award ceremony? Expected Total Number.
+We look forward to seeing many of you in San Antonio in March. 
+
 ## [News #10] MagNet Challenge 2 - Final Data Released
 Training and testing data released for 5 new materials [A, B, C, D, E]:
 - [MagNet Challenge 2 Data](https://www.dropbox.com/scl/fo/o07x7fa6d5elev19pzd1w/AISuBEWf8LQVszFeoaTlqY4?rlkey=8ec7mqukfr9no61h193zb4qdb&dl=0) under "Final Evaluation"
