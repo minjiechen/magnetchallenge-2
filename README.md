@@ -61,7 +61,7 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Aalborg University (Davari), Denmark 🇩🇰 ✅ 👍
 - University of Auckland, New Zealand 🇳🇿 ✅
 - Eindhoven University of Technology, Netherland 🇳🇱 ✅
-- Tianjin University, China 🇨🇳 ✅ 👍
+- Tianjin University, China 🇨🇳 ✅ 👍 🏁
 - Xi'an Jiaotong University (Zhu1), China 🇨🇳 ✅
 - Xi'an Jiaotong University (Zhu2), China 🇨🇳 ✅
 - Xi'an Jiaotong University (Wei), China 🇨🇳 ✅ 👍
