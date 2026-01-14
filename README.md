@@ -3,6 +3,18 @@
 
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
+## Congratulations to the following teams which have submitted their final results! 
+- Tianjin University, China 🇨🇳 🌸
+- Fuzhou University, China 🇨🇳 🌸
+- Hangzhou Dianzi University, China 🇨🇳 🌸
+- Fujian University of Technology, China 🇨🇳 🌸
+- Hefei University of Technology, China 🇨🇳 🌸
+- University of Bristol, UK 🇬🇧 🌸
+- Tokyo Metropolitan University, Japan 🇯🇵 🌸
+- University of Sydney, Australia 🇦🇺 🌸
+- University of Electronic Science and Technology of China, China 🇨🇳 🌸
+- Zhejiang University, China 🇨🇳 🌸
+
 ## [News #11] Award Ceremony in APEC 2026
 We are planning an Award Ceremony of MagNet Challenge 2 in APEC 2026. Please send an email to pelsmagnet@gmail.com with the following information:
 
