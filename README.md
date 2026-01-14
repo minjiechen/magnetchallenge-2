@@ -67,14 +67,14 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Xi'an Jiaotong University (Wei), China 🇨🇳 ✅ 👍
 - Xi'an Jiaotong University (Chen), China 🇨🇳 ✅
 - Fuzhou University, China 🇨🇳 ✅ 👍 🏁
-- Hangzhou Dianzi University, China 🇨🇳 ✅
+- Hangzhou Dianzi University, China 🇨🇳 ✅ 🏁
 - Southeast University (Cheng), China 🇨🇳 ✅ 👍
 - Southeast University (Xu), China 🇨🇳 ✅
 - Tsinghua University, China 🇨🇳 ✅
-- Fujian University of Technology, China 🇨🇳 ✅
-- Hefei University of Technology, China 🇨🇳 ✅
+- Fujian University of Technology, China 🇨🇳 ✅ 🏁
+- Hefei University of Technology, China 🇨🇳 ✅ 🏁
 - Huazhong University of Science and Technology, China 🇨🇳 ✅
-- University of Electronic Science and Technology of China, China 🇨🇳 ✅
+- University of Electronic Science and Technology of China, China 🇨🇳 ✅ 🏁
 - Zhejiang University, China 🇨🇳 ✅ 🏁
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 ✅
 - Seigen & Paderborn, Germany 🇩🇪 ✅ 👍
@@ -82,10 +82,10 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - TU Munich & FU Santa Catarina, Germany & Brazil 🇩🇪 🇧🇷 ✅
 - Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪 ✅
 - KU Leuven, Belgium, 🇧🇪 ✅ 👍
-- University of Bristol, UK 🇬🇧 ✅ 👍
+- University of Bristol, UK 🇬🇧 ✅ 👍 🏁
 - University of Cambridge, UK 🇬🇧 ✅
 - Politecnico di Torino, Italy 🇮🇹 ✅
-- Tokyo Metropolitan University, Japan 🇯🇵 ✅
+- Tokyo Metropolitan University, Japan 🇯🇵 ✅ 🏁
 - Nagoya Institute of Technology, Japan 🇯🇵 ✅
 - Nanyang Technological University (Yang), Singapore 🇸🇬 ✅
 - Nanyang Technological University (Tang), Singapore 🇸🇬 ✅
