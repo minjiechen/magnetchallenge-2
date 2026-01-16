@@ -6,25 +6,28 @@
 ## [News #12] We have received the final results from the following teams! More coming ...
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
-- Southeast University 1 (Cheng), China 🇨🇳 🌸
-- Southeast University 2 (Xu), China 🇨🇳 🌸
-- National Institute of Technology Calicut 1 (Muhammed), India 🇮🇳 🌸
-- Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸
-- Xi'an Jiaotong University 2 (Zhu2), China 🇨🇳 🌸
-- Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸
-- Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸
+- University of Bristol, UK 🇬🇧 🌸
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸
-- University of Missouri Columbia, USA 🇺🇸 🌸
-- Tianjin University, China 🇨🇳 🌸
+- Fujian University of Technology, China 🇨🇳 🌸
 - Fuzhou University, China 🇨🇳 🌸
 - Hangzhou Dianzi University, China 🇨🇳 🌸
-- Fujian University of Technology, China 🇨🇳 🌸
 - Hefei University of Technology, China 🇨🇳 🌸
-- University of Bristol, UK 🇬🇧 🌸
-- Tokyo Metropolitan University, Japan 🇯🇵 🌸
+- Indian Institute of Technology Dharwad, India 🇮🇳 🌸
+- University of Missouri Columbia, USA 🇺🇸 🌸
+- National Institute of Technology Calicut 1 (Muhammed), India 🇮🇳 🌸
+- Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸
+- Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸
+- The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 🌸
 - Silicon Austria Labs, Austria 🇦🇹 🌸
+- Seigen & Paderborn, Germany 🇩🇪 🌸
+- Southeast University 1 (Cheng), China 🇨🇳 🌸
+- Southeast University 2 (Xu), China 🇨🇳 🌸
 - University of Sydney, Australia 🇦🇺 🌸
+- Tianjin University, China 🇨🇳 🌸
+- Tokyo Metropolitan University, Japan 🇯🇵 🌸
 - University of Electronic Science and Technology of China, China 🇨🇳 🌸
+- Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸
+- Xi'an Jiaotong University 2 (Zhu2), China 🇨🇳 🌸
 - Zhejiang University, China 🇨🇳 🌸
 
 ## [News #11] Award Ceremony in APEC 2026
