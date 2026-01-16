@@ -7,11 +7,13 @@
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
 - University of Bristol, UK 🇬🇧 🌸
+- University of Cambridge, UK 🇬🇧 🌸
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸
 - Fujian University of Technology, China 🇨🇳 🌸
 - Fuzhou University, China 🇨🇳 🌸
 - Hangzhou Dianzi University, China 🇨🇳 🌸
 - Hefei University of Technology, China 🇨🇳 🌸
+- Huazhong University of Science and Technology, China 🇨🇳 🌸
 - Indian Institute of Technology Dharwad, India 🇮🇳 🌸
 - University of Missouri Columbia, USA 🇺🇸 🌸
 - National Institute of Technology Calicut 1 (Muhammed), India 🇮🇳 🌸
