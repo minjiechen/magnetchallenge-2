@@ -1,9 +1,7 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
-
-## [News #12] We have received final submissions from 33 teams ... perhaps more
+## [News #12] We have received final submissions from the following teams ... 
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
 - Arizona State University, USA 🇺🇸 🌸
@@ -54,6 +52,8 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - 4-Page Report Due January 30th (Methods and Code Verification for Winning Teams). Please list the names of your team members in the right order for future acknowledgement
 - [Pretest Results](Pretest/Results): Note the submitted pretest results are self-reported, are not verified and have no influence on the final evaluation, the model parameters are also unknown
 - Please [Sign-Up](https://www.ieee.org/membership-catalog/productdetail/showProductDetailPage.html?product=CMYDM959&tcType=IEEE%20Power%20Electronics%20Society%20Membership) to PELS TC10 as a Member or Student Member (for Free) to support MagNet Challenge
+
+## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
 ## [News #9] MagNet Tutorial 6
 - Tutorial 6 (October 30 10am EST): [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
