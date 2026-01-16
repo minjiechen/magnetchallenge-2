@@ -4,6 +4,13 @@
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
 ## [News #12] We have received the final results from the following teams! More coming ...
+- Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
+- Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
+- Southeast University 1 (Cheng), China 🇨🇳 🌸
+- Southeast University 2 (Xu), China 🇨🇳 🌸
+- National Institute of Technology Calicut 1 (Muhammed), India 🇮🇳 🌸
+- Eindhoven University of Technology, Netherland 🇳🇱 🌸
+- University of Missouri Columbia, USA 🇺🇸 🌸
 - Tianjin University, China 🇨🇳 🌸
 - Fuzhou University, China 🇨🇳 🌸
 - Hangzhou Dianzi University, China 🇨🇳 🌸
@@ -11,6 +18,7 @@
 - Hefei University of Technology, China 🇨🇳 🌸
 - University of Bristol, UK 🇬🇧 🌸
 - Tokyo Metropolitan University, Japan 🇯🇵 🌸
+- Silicon Austria Labs, Austria 🇦🇹 🌸
 - University of Sydney, Australia 🇦🇺 🌸
 - University of Electronic Science and Technology of China, China 🇨🇳 🌸
 - Zhejiang University, China 🇨🇳 🌸
@@ -68,40 +76,40 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Tutorial 5 (September 12): New Models and Discussion by @ [Shukai Wang](https://github.com/PaulShuk). [Video](https://www.youtube.com/watch?v=-CtfTw9098c), [Slides](Pretest/Webinar-5-2025.pdf)
 - Tutorial 6 (October 30): Final Evaluation @ [Hyukjae Kwon](https://github.com/hk1715). [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
 
-## [News #5] 40 Teams Confirmed, ✅:Concept Paper, 👍: Pre-test, 🏁: Final
-- Aalborg University (Zhao), Denmark 🇩🇰 ✅ 👍
-- Aalborg University (Davari), Denmark 🇩🇰 ✅ 👍
+## [News #5] 40 Teams Confirmed, ✅:Concept Paper, 👍: Pre-test, 🌸: Final
+- Aalborg University (Zhao), Denmark 🇩🇰 ✅ 👍 🌸
+- Aalborg University (Davari), Denmark 🇩🇰 ✅ 👍 🌸
 - University of Auckland, New Zealand 🇳🇿 ✅
-- Eindhoven University of Technology, Netherland 🇳🇱 ✅
-- Tianjin University, China 🇨🇳 ✅ 👍 🏁
+- Eindhoven University of Technology, Netherland 🇳🇱 ✅ 🌸
+- Tianjin University, China 🇨🇳 ✅ 👍 🌸
 - Xi'an Jiaotong University (Zhu1), China 🇨🇳 ✅
 - Xi'an Jiaotong University (Zhu2), China 🇨🇳 ✅
 - Xi'an Jiaotong University (Wei), China 🇨🇳 ✅ 👍
 - Xi'an Jiaotong University (Chen), China 🇨🇳 ✅
-- Fuzhou University, China 🇨🇳 ✅ 👍 🏁
-- Hangzhou Dianzi University, China 🇨🇳 ✅ 🏁
-- Southeast University (Cheng), China 🇨🇳 ✅ 👍
-- Southeast University (Xu), China 🇨🇳 ✅
+- Fuzhou University, China 🇨🇳 ✅ 👍 🌸
+- Hangzhou Dianzi University, China 🇨🇳 ✅ 🌸
+- Southeast University (Cheng), China 🇨🇳 ✅ 👍 🌸
+- Southeast University (Xu), China 🇨🇳 ✅ 🌸
 - Tsinghua University, China 🇨🇳 ✅
-- Fujian University of Technology, China 🇨🇳 ✅ 🏁
-- Hefei University of Technology, China 🇨🇳 ✅ 🏁
+- Fujian University of Technology, China 🇨🇳 ✅ 🌸
+- Hefei University of Technology, China 🇨🇳 ✅ 🌸
 - Huazhong University of Science and Technology, China 🇨🇳 ✅
-- University of Electronic Science and Technology of China, China 🇨🇳 ✅ 🏁
-- Zhejiang University, China 🇨🇳 ✅ 🏁
+- University of Electronic Science and Technology of China, China 🇨🇳 ✅ 🌸
+- Zhejiang University, China 🇨🇳 ✅ 🌸
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 ✅
-- Seigen & Paderborn, Germany 🇩🇪 ✅ 👍
+- Seigen & Paderborn, Germany 🇩🇪 ✅ 👍 🌸
 - University of Kassel, Germany 🇩🇪 ✅
 - TU Munich & FU Santa Catarina, Germany & Brazil 🇩🇪 🇧🇷 ✅
 - Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪 ✅
 - KU Leuven, Belgium, 🇧🇪 ✅ 👍
-- University of Bristol, UK 🇬🇧 ✅ 👍 🏁
+- University of Bristol, UK 🇬🇧 ✅ 👍 🌸
 - University of Cambridge, UK 🇬🇧 ✅
 - Politecnico di Torino, Italy 🇮🇹 ✅
-- Tokyo Metropolitan University, Japan 🇯🇵 ✅ 🏁
+- Tokyo Metropolitan University, Japan 🇯🇵 ✅ 🌸
 - Nagoya Institute of Technology, Japan 🇯🇵 ✅
 - Nanyang Technological University (Yang), Singapore 🇸🇬 ✅
 - Nanyang Technological University (Tang), Singapore 🇸🇬 ✅
-- University of Sydney, Australia 🇦🇺 ✅ 👍 🏁
+- University of Sydney, Australia 🇦🇺 ✅ 👍 🌸
 - National Institute of Technology Calicut (Mohan), India 🇮🇳 ✅
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳 ✅
 - Indian Institute of Technology Dharwad, India 🇮🇳 ✅
