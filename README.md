@@ -22,9 +22,10 @@
 - Seigen & Paderborn, Germany 🇩🇪 🌸
 - Southeast University 1 (Cheng), China 🇨🇳 🌸
 - Southeast University 2 (Xu), China 🇨🇳 🌸
-- University of Sydney, Australia 🇦🇺 🌸
 - Tianjin University, China 🇨🇳 🌸
+- Tsinghua University, China 🇨🇳 🌸
 - Tokyo Metropolitan University, Japan 🇯🇵 🌸
+- University of Sydney, Australia 🇦🇺 🌸
 - University of Electronic Science and Technology of China, China 🇨🇳 🌸
 - Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸
 - Xi'an Jiaotong University 2 (Zhu2), China 🇨🇳 🌸
