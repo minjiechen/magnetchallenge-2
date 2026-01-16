@@ -11,6 +11,7 @@
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸
 - Fujian University of Technology, China 🇨🇳 🌸
 - Fuzhou University, China 🇨🇳 🌸
+- Georgia Institute of Technology, USA 🇺🇸 🌸
 - Hangzhou Dianzi University, China 🇨🇳 🌸
 - Hefei University of Technology, China 🇨🇳 🌸
 - Huazhong University of Science and Technology, China 🇨🇳 🌸
