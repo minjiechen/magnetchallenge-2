@@ -84,45 +84,45 @@ Training and testing data released for 5 new materials [A, B, C, D, E]:
 - Tutorial 6 (October 30): Final Evaluation @ [Hyukjae Kwon](https://github.com/hk1715). [Video](https://www.youtube.com/watch?v=mANLTyKxSXs), [Slides](tutorials/tutorial-6/Webinar-6-2025.pdf)
 
 ## [News #5] 40 Teams Confirmed, ✅:Concept Paper, 👍: Pre-test, 🌸: Final
-- Aalborg University (Zhao), Denmark 🇩🇰 ✅ 👍 🌸
-- Aalborg University (Davari), Denmark 🇩🇰 ✅ 👍 🌸
+- Aalborg University (Zhao), Denmark 🇩🇰 ✅ 👍
+- Aalborg University (Davari), Denmark 🇩🇰 ✅ 👍
 - University of Auckland, New Zealand 🇳🇿 ✅
-- Eindhoven University of Technology, Netherland 🇳🇱 ✅ 🌸
-- Tianjin University, China 🇨🇳 ✅ 👍 🌸
+- Eindhoven University of Technology, Netherland 🇳🇱 ✅
+- Tianjin University, China 🇨🇳 ✅ 👍
 - Xi'an Jiaotong University (Zhu1), China 🇨🇳 ✅
-- Xi'an Jiaotong University (Zhu2), China 🇨🇳 ✅ 🌸
-- Xi'an Jiaotong University (Wei), China 🇨🇳 ✅ 👍 🌸
+- Xi'an Jiaotong University (Zhu2), China 🇨🇳 ✅
+- Xi'an Jiaotong University (Wei), China 🇨🇳 ✅ 👍
 - Xi'an Jiaotong University (Chen), China 🇨🇳 ✅
-- Fuzhou University, China 🇨🇳 ✅ 👍 🌸
-- Hangzhou Dianzi University, China 🇨🇳 ✅ 🌸
-- Southeast University (Cheng), China 🇨🇳 ✅ 👍 🌸
-- Southeast University (Xu), China 🇨🇳 ✅ 🌸
+- Fuzhou University, China 🇨🇳 ✅ 👍
+- Hangzhou Dianzi University, China 🇨🇳 ✅
+- Southeast University (Cheng), China 🇨🇳 ✅ 👍
+- Southeast University (Xu), China 🇨🇳 ✅
 - Tsinghua University, China 🇨🇳 ✅
-- Fujian University of Technology, China 🇨🇳 ✅ 🌸
-- Hefei University of Technology, China 🇨🇳 ✅ 🌸
+- Fujian University of Technology, China 🇨🇳 ✅
+- Hefei University of Technology, China 🇨🇳 ✅
 - Huazhong University of Science and Technology, China 🇨🇳 ✅
-- University of Electronic Science and Technology of China, China 🇨🇳 ✅ 🌸
-- Zhejiang University, China 🇨🇳 ✅ 🌸
-- The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 ✅ 🌸
-- Seigen & Paderborn, Germany 🇩🇪 ✅ 👍 🌸
+- University of Electronic Science and Technology of China, China 🇨🇳 ✅
+- Zhejiang University, China 🇨🇳 ✅
+- The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 ✅
+- Seigen & Paderborn, Germany 🇩🇪 ✅ 👍
 - University of Kassel, Germany 🇩🇪 ✅
 - TU Munich & FU Santa Catarina, Germany & Brazil 🇩🇪 🇧🇷 ✅
 - Leeds & Wuerth Elektronik, UK & Germany 🇬🇧 🇩🇪 ✅
 - KU Leuven, Belgium, 🇧🇪 ✅ 👍
-- University of Bristol, UK 🇬🇧 ✅ 👍 🌸
+- University of Bristol, UK 🇬🇧 ✅ 👍
 - University of Cambridge, UK 🇬🇧 ✅
 - Politecnico di Torino, Italy 🇮🇹 ✅
-- Tokyo Metropolitan University, Japan 🇯🇵 ✅ 🌸
+- Tokyo Metropolitan University, Japan 🇯🇵 ✅
 - Nagoya Institute of Technology, Japan 🇯🇵 ✅
-- Nanyang Technological University (Yang), Singapore 🇸🇬 ✅ 🌸
-- Nanyang Technological University (Tang), Singapore 🇸🇬 ✅ 🌸
-- University of Sydney, Australia 🇦🇺 ✅ 👍 🌸
+- Nanyang Technological University (Yang), Singapore 🇸🇬 ✅
+- Nanyang Technological University (Tang), Singapore 🇸🇬 ✅
+- University of Sydney, Australia 🇦🇺 ✅ 👍
 - National Institute of Technology Calicut (Mohan), India 🇮🇳 ✅
-- National Institute of Technology Calicut (Muhammed), India 🇮🇳 ✅ 🌸
-- Indian Institute of Technology Dharwad, India 🇮🇳 ✅ 🌸
-- Silicon Austria Labs, Austria 🇦🇹 ✅ 👍 🌸
+- National Institute of Technology Calicut (Muhammed), India 🇮🇳 ✅
+- Indian Institute of Technology Dharwad, India 🇮🇳 ✅
+- Silicon Austria Labs, Austria 🇦🇹 ✅ 👍
 - Arizona State University, USA 🇺🇸 ✅ 👍
-- University of Missouri Columbia, USA 🇺🇸 ✅ 🌸
+- University of Missouri Columbia, USA 🇺🇸 ✅
 - Georgia Institute of Technology, USA 🇺🇸 ✅ 👍
 - Princeton University, USA 🇺🇸 (not competing)
 - Dartmouth College, USA 🇺🇸 (not competing)
