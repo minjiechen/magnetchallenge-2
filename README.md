@@ -9,6 +9,8 @@
 - Southeast University 1 (Cheng), China 🇨🇳 🌸
 - Southeast University 2 (Xu), China 🇨🇳 🌸
 - National Institute of Technology Calicut 1 (Muhammed), India 🇮🇳 🌸
+- Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸
+- Xi'an Jiaotong University 2 (Zhu2), China 🇨🇳 🌸
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸
 - University of Missouri Columbia, USA 🇺🇸 🌸
 - Tianjin University, China 🇨🇳 🌸
