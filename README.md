@@ -3,7 +3,7 @@
 
 ## The MagNet community mourns the passing of [Haoran Li](https://github.com/haoranli1031), a wonderful person and a key contributor to the MagNet project. Haoran’s passion, creativity, and kindness will continue to influence our community. With the consent of his family and IEEE PELS, one of the MagNet Challenge 2 awards will be named in his honor.
 
-## [News #12] We have received the final results from the following teams! More coming ...
+## [News #12] We have received final submissions from 33 teams ... perhaps more
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
 - Arizona State University, USA 🇺🇸 🌸
