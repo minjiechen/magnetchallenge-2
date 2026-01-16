@@ -11,6 +11,8 @@
 - National Institute of Technology Calicut 1 (Muhammed), India 🇮🇳 🌸
 - Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸
 - Xi'an Jiaotong University 2 (Zhu2), China 🇨🇳 🌸
+- Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸
+- Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸
 - University of Missouri Columbia, USA 🇺🇸 🌸
 - Tianjin University, China 🇨🇳 🌸
