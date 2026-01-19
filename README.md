@@ -1,7 +1,7 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## [News #12] We have received final submissions from the following teams ... 
+## [News #12] We have received final submissions from 30 teams ... 
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
 - Arizona State University, USA 🇺🇸 🌸
