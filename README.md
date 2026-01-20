@@ -1,7 +1,7 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## [News #12] We have received final submissions from 30 teams ... 
+## [News #12] We have received final submissions from 31 teams ... 
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
 - Arizona State University, USA 🇺🇸 🌸
@@ -15,8 +15,9 @@
 - Hefei University of Technology, China 🇨🇳 🌸
 - Huazhong University of Science and Technology, China 🇨🇳 🌸
 - Indian Institute of Technology Dharwad, India 🇮🇳 🌸
+- KU Leuven, Belgium, 🇧🇪 🌸
 - University of Missouri Columbia, USA 🇺🇸 🌸
-- National Institute of Technology Calicut 1 (Muhammed), India 🇮🇳 🌸
+- National Institute of Technology Calicut (Muhammed), India 🇮🇳 🌸
 - Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸
 - Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 🌸
@@ -30,7 +31,7 @@
 - University of Sydney, Australia 🇦🇺 🌸
 - University of Electronic Science and Technology of China, China 🇨🇳 🌸
 - Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸
-- Xi'an Jiaotong University 2 (Zhu2), China 🇨🇳 🌸
+- Xi'an Jiaotong University 2 (Zhu), China 🇨🇳 🌸
 - Zhejiang University, China 🇨🇳 🌸
 
 ## [News #11] Award Ceremony in APEC 2026
