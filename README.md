@@ -1,7 +1,7 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## [News #13] Preliminary ranking of 32 teams including Princeton as a benchmark. All submitted results available [Here](https://www.dropbox.com/scl/fo/en5z0mef5cub7q574cknf/AA7moyzEJDOC398WwhvLzJs?rlkey=n9r8jqk6azh461tmxy1ixr3vm&dl=0) ...
+## [News #13] Preliminary ranking of 32 teams. All submitted results available [Here](https://www.dropbox.com/scl/fo/en5z0mef5cub7q574cknf/AA7moyzEJDOC398WwhvLzJs?rlkey=n9r8jqk6azh461tmxy1ixr3vm&dl=0) for cross-checking. Let us know if you find any error.
 
 <img src="img/seqranking.png" width="800">
 <img src="img/seqerror.png" width="800">
