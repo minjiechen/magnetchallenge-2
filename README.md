@@ -1,6 +1,42 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
+## [News #13] Preliminary ranking of 32 teams including Princeton as a benchmark ...
+| Team            | Seq. Error # | Energy Error # | Size # | Avg. 95% Seq. Error | Avg. 95% Energy Error | Avg. Parameters   |
+| Aalborg1        | 25           | 27             | 19     | 87.10               | 39.67                 |        111,901    |
+| Aalborg2        | 21           | 14             | 24     | 59.49               | 7.36                  |        415,753    |
+| ASU             | 20           | 21             | 14     | 54.08               | 20.92                 |          18,337   |
+| Bristol         | 7            | 7              | 26     | 25.22               | 8.40                  |        860,929    |
+| Cambridge       | 14           | 16             | 4      | 37.01               | 9.24                  |            1,182  |
+| Eindhoven       | 4            | 3              | 17     | 17.71               | 2.38                  |          81,893   |
+| FJUT            | 29           | 24             | 31     | 279.37              | 43.09                 |     4,447,233     |
+| Fuzhou          | 2            | 2              | 16     | 12.42               | 1.91                  |          63,022   |
+| Gatech          | 17           | 15             | 1      | 38.76               | 7.97                  |                83 |
+| Hangzhou        | 27           | 28             | 32     | 166.77              | 45.08                 |     13,185,504    |
+| Hefei           | 1            | 1              | 10     | 9.17                | 1.57                  |            6,564  |
+| HUST            | 31           | 29             | 30     | 239.56              | 38.95                 |       3,063,741   |
+| IIT             | 11           | 12             | 18     | 36.52               | 26.59                 |          93,876   |
+| Leuven          | 12           | 10             | 21     | 34.54               | 5.37                  |        111,985    |
+| Mizzou          | 18           | 20             | 22     | 50.66               | 21.57                 |        153,462    |
+| NITC            | 10           | 9              | 25     | 24.85               | 4.73                  |        347,237    |
+| NTU1            | 30           | 30             | 20     | 293.78              | 61.30                 |        108,848    |
+| NTU2            | 23           | 24             | 6      | 75.11               | 27.43                 |            2,399  |
+| PolyU           | 32           | 32             | 28     | 404.84              | 525.89                |     1,478,785     |
+| Princeton       | 23           | 19             | 5      | 66.85               | 15.89                 |            1,443  |
+| SAL             | 15           | 18             | 7      | 39.48               | 30.05                 |            3,713  |
+| SiegenPaderborn | 6            | 6              | 3      | 20.43               | 3.41                  |              325  |
+| Southeast1      | 3            | 5              | 15     | 14.51               | 2.69                  |          22,197   |
+| Southeast2      | 28           | 30             | 11     | 248.88              | 66.05                 |            6,913  |
+| Sydney          | 9            | 11             | 8      | 24.63               | 5.44                  |            4,777  |
+| Tianjin         | 13           | 13             | 13     | 32.56               | 6.99                  |          16,391   |
+| Tokyo           | 26           | 23             | 23     | 800.00              | 800.00                |        185,729    |
+| Tsinghua        | 5            | 4              | 29     | 19.93               | 2.52                  |     2,177,283     |
+| UESTC           | 18           | 22             | 9      | 51.95               | 21.33                 |            5,202  |
+| XJTU1           | 8            | 8              | 27     | 22.48               | 3.64                  |     1,350,913     |
+| XJTU2           | 22           | 26             | 2      | 836.88              | 32.57                 |                99 |
+| Zhejiang        | 15           | 17             | 12     | 44.60               | 9.39                  |          16,161   |
+
+
 ## [News #12] We have received final submissions from 31 teams ... 
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
