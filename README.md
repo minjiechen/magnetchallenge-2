@@ -3,6 +3,7 @@
 
 ## [News #13] Preliminary ranking of 32 teams including Princeton as a benchmark ...
 | Team            | Seq. Error # | Energy Error # | Size # | Avg. 95% Seq. Error | Avg. 95% Energy Error | Avg. Parameters   |
+| --------------- | ------------ | -------------- | ------ | ------------------- | --------------------- | ----------------- |
 | Aalborg1        | 25           | 27             | 19     | 87.10               | 39.67                 |        111,901    |
 | Aalborg2        | 21           | 14             | 24     | 59.49               | 7.36                  |        415,753    |
 | ASU             | 20           | 21             | 14     | 54.08               | 20.92                 |          18,337   |
