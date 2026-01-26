@@ -2,7 +2,10 @@
 <img src="img/teams.jpg" width="800">
 
 ## [News #14] Code evaluation starts NOW. 
-Please email us your inference code and make them as compact and as easy to use as possible. 4-Page Report due Jan 30. Please sign up for the upcoming four webinars on Feb 9~12. Email us your preferred slot and prepare a 5-min presentation. [Zoom-Link](https://princeton.zoom.us/webinar/register/WN_2e1KOEVFTHuaowA2VTfgkw#/registration).
+- Please email us your inference code and make them as compact and as easy to use as possible. 
+- 4-Page Report due Jan 30. 
+- Please [Sign Up](https://princeton.zoom.us/webinar/register/WN_2e1KOEVFTHuaowA2VTfgkw#/registration) for the upcoming four webinars on Feb 9~12.
+- Email us your preferred slot and prepare a 5-min presentation.
 
 ## [News #13] Preliminary ranking of 32 teams. All submitted results available [Here](https://www.dropbox.com/scl/fo/en5z0mef5cub7q574cknf/AA7moyzEJDOC398WwhvLzJs?rlkey=n9r8jqk6azh461tmxy1ixr3vm&dl=0) for cross-checking. Let us know if you find any error...
 <img src="img/results.png" width="800">
