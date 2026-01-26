@@ -3,10 +3,7 @@
 
 ## [News #13] Preliminary ranking of 32 teams. All submitted results available [Here](https://www.dropbox.com/scl/fo/en5z0mef5cub7q574cknf/AA7moyzEJDOC398WwhvLzJs?rlkey=n9r8jqk6azh461tmxy1ixr3vm&dl=0) for cross-checking. Let us know if you find any error...
 
-<img src="img/seqranking.png" width="800">
-<img src="img/seqerror.png" width="800">
-<img src="img/eneranking.png" width="800">
-<img src="img/eneerror.png" width="800">
+<img src="img/results.png" width="800">
 
 | Team            | Seq. Error Ranking | Energy Error Ranking | Size Ranking | Avg. 95% Seq. Error | Avg. 95% Energy Error | Avg. Parameters   |
 | --------------- | ------------ | -------------- | ------ | ------------------- | --------------------- | ----------------- |
