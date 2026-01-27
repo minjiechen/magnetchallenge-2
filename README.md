@@ -1,6 +1,12 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
+## Presentation Sign-Up
+- Feb 9th: Eindhoven
+- Feb 10th: 
+- Feb 11th: 
+- Feb 12th: 
+
 ## [News #14] Code evaluation starts NOW. 
 - Please email us your inference code and make them as compact and as easy to use as possible. 
 - 4-Page Report due Jan 30. 
