@@ -4,7 +4,7 @@
 ## Presentation Sign-Up
 - Feb 9th: Eindhoven
 - Feb 10th: 
-- Feb 11th: 
+- Feb 11th: Georgia Tech
 - Feb 12th: 
 
 ## [News #14] Code evaluation starts NOW. 
