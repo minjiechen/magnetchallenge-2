@@ -2,10 +2,10 @@
 <img src="img/teams.jpg" width="800">
 
 ## Presentation Sign-Up
-- Feb 9th: Eindhoven
-- Feb 10th: 
-- Feb 11th: Georgia Tech
-- Feb 12th: 
+- Feb 9th (8 Slots): Eindhoven
+- Feb 10th (8 slots): 
+- Feb 11th (8 slots): Georgia Tech
+- Feb 12th (8 slots): 
 
 ## [News #14] Code evaluation starts NOW. 
 - Please email us your inference code and make them as compact and as easy to use as possible. 
