@@ -5,7 +5,7 @@
 - Feb 9th (8 Slots): Eindhoven, Hefei
 - Feb 10th (8 slots): IIT
 - Feb 11th (8 slots): Gatech, XJTU2
-- Feb 12th (8 slots): KU Leuven
+- Feb 12th (8 slots): Leuven
 
 ## [News #14] Code evaluation starts NOW. 
 - Please email us your inference code and make them as compact and as easy to use as possible. 
