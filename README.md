@@ -16,7 +16,7 @@
 ## [News #13] Preliminary ranking of 32 teams. All submitted results available [Here](https://www.dropbox.com/scl/fo/en5z0mef5cub7q574cknf/AA7moyzEJDOC398WwhvLzJs?rlkey=n9r8jqk6azh461tmxy1ixr3vm&dl=0) for cross-checking. Let us know if you find any error...
 <img src="img/results.png" width="800">
 
-| Team            | Seq. Error Ranking | Energy Error Ranking | Size Ranking | Avg. 95% Seq. Error | Avg. 95% Energy Error | Avg. Parameters   |
+| Team            | Seq. Error Ranking | Energy Error Ranking | Size Ranking | Avg. 95% Seq. Error [%] | Avg. 95% Energy Error [%] | Avg. Parameters   |
 | --------------- | ------------ | -------------- | ------ | ------------------- | --------------------- | ----------------- |
 | Aalborg1        | 25           | 27             | 19     | 87.10               | 39.67                 | 111901    |
 | Aalborg2        | 21           | 14             | 24     | 59.49               | 7.36                  | 415753    |
