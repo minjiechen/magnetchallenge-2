@@ -71,6 +71,7 @@
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳 🌸
 - Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸
 - Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸
+- Princeton University, USA 🇺🇸 🌸 (not competing)
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 🌸
 - Silicon Austria Labs, Austria 🇦🇹 🌸
 - Seigen & Paderborn, Germany 🇩🇪 🌸
