@@ -52,7 +52,7 @@
 | Zhejiang        | 15           | 17             | 12     | 44.60               | 9.39                  | 16161    |
 
 
-## [News #12] We have received final submissions from 31 teams ... 
+## [News #12] We have received final submissions from 32 teams ... 
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
 - Arizona State University, USA 🇺🇸 🌸
