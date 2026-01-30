@@ -3,7 +3,7 @@
 
 ## Presentation Sign-Up
 - Feb 9th (8 Slots): Eindhoven, Hefei, Fuzhou
-- Feb 10th (8 slots): IIT
+- Feb 10th (8 slots): IIT, Hangzhou
 - Feb 11th (8 slots): Gatech, XJTU2
 - Feb 12th (8 slots): Leuven, SAL
 
