@@ -3,9 +3,9 @@
 
 ## Presentation Sign-Up
 - Feb 9th (8 Slots): Eindhoven, Hefei, Fuzhou
-- Feb 10th (8 slots): IIT, Hangzhou, UESTC
+- Feb 10th (8 slots): IIT, Hangzhou, UESTC, ASU
 - Feb 11th (8 slots): Gatech, XJTU2, AAU2, SiegenPaderborn
-- Feb 12th (8 slots): Leuven, SAL
+- Feb 12th (8 slots): Leuven, SAL, Sydney
 
 ## [News #14] Code evaluation starts NOW. 
 - Please email us your inference code and make them as compact and as easy to use as possible. 
