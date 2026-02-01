@@ -59,7 +59,7 @@
 - University of Bristol, UK 🇬🇧 🌸 📝 💾
 - University of Cambridge, UK 🇬🇧 🌸
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸 📝
-- Fujian University of Technology, China 🇨🇳 🌸 💾
+- Fujian University of Technology, China 🇨🇳 🌸 📝 💾
 - Fuzhou University, China 🇨🇳 🌸 📝 💾
 - Georgia Institute of Technology, USA 🇺🇸 🌸 📝 💾
 - Hangzhou Dianzi University, China 🇨🇳 🌸 📝 💾
