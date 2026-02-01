@@ -53,38 +53,38 @@
 
 
 ## [News #12] We have received final submissions from 32 teams ... 
-- Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸
-- Aalborg University 2 (Davari), Denmark 🇩🇰 🌸
-- Arizona State University, USA 🇺🇸 🌸
-- University of Bristol, UK 🇬🇧 🌸
+- Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸 📝 💾
+- Aalborg University 2 (Davari), Denmark 🇩🇰 🌸 📝 💾
+- Arizona State University, USA 🇺🇸 🌸 💾
+- University of Bristol, UK 🇬🇧 🌸 📝 💾
 - University of Cambridge, UK 🇬🇧 🌸
-- Eindhoven University of Technology, Netherland 🇳🇱 🌸
-- Fujian University of Technology, China 🇨🇳 🌸
-- Fuzhou University, China 🇨🇳 🌸
-- Georgia Institute of Technology, USA 🇺🇸 🌸
-- Hangzhou Dianzi University, China 🇨🇳 🌸
-- Hefei University of Technology, China 🇨🇳 🌸
-- Huazhong University of Science and Technology, China 🇨🇳 🌸
-- Indian Institute of Technology Dharwad, India 🇮🇳 🌸
-- KU Leuven, Belgium, 🇧🇪 🌸
+- Eindhoven University of Technology, Netherland 🇳🇱 🌸 📝
+- Fujian University of Technology, China 🇨🇳 🌸 💾
+- Fuzhou University, China 🇨🇳 🌸 📝 💾
+- Georgia Institute of Technology, USA 🇺🇸 🌸 📝 💾
+- Hangzhou Dianzi University, China 🇨🇳 🌸 📝 💾
+- Hefei University of Technology, China 🇨🇳 🌸 📝 💾
+- Huazhong University of Science and Technology, China 🇨🇳 🌸 📝
+- Indian Institute of Technology Dharwad, India 🇮🇳 🌸 📝 💾
+- KU Leuven, Belgium, 🇧🇪 🌸 📝 💾
 - University of Missouri Columbia, USA 🇺🇸 🌸
-- National Institute of Technology Calicut (Muhammed), India 🇮🇳 🌸
-- Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸
-- Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸
+- National Institute of Technology Calicut (Muhammed), India 🇮🇳 🌸 📝 💾
+- Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸 📝 💾
+- Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸 📝 💾
 - Princeton University, USA 🇺🇸 🌸 (not competing)
-- The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 🌸
-- Silicon Austria Labs, Austria 🇦🇹 🌸
-- Seigen & Paderborn, Germany 🇩🇪 🌸
-- Southeast University 1 (Cheng), China 🇨🇳 🌸
-- Southeast University 2 (Xu), China 🇨🇳 🌸
+- The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 🌸 📝
+- Silicon Austria Labs, Austria 🇦🇹 🌸 📝 💾
+- Seigen & Paderborn, Germany 🇩🇪 🌸 📝 💾
+- Southeast University 1 (Cheng), China 🇨🇳 🌸 📝
+- Southeast University 2 (Xu), China 🇨🇳 🌸 📝 💾
 - Tianjin University, China 🇨🇳 🌸
-- Tsinghua University, China 🇨🇳 🌸
-- Tokyo Metropolitan University, Japan 🇯🇵 🌸
-- University of Sydney, Australia 🇦🇺 🌸
-- University of Electronic Science and Technology of China, China 🇨🇳 🌸
-- Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸
-- Xi'an Jiaotong University 2 (Zhu), China 🇨🇳 🌸
-- Zhejiang University, China 🇨🇳 🌸
+- Tsinghua University, China 🇨🇳 🌸 📝 💾
+- Tokyo Metropolitan University, Japan 🇯🇵 🌸 📝 💾
+- University of Sydney, Australia 🇦🇺 🌸 📝 💾
+- University of Electronic Science and Technology of China, China 🇨🇳 🌸 📝
+- Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸 📝 💾
+- Xi'an Jiaotong University 2 (Zhu), China 🇨🇳 🌸 📝 💾
+- Zhejiang University, China 🇨🇳 🌸 📝 💾
 
 ## [News #11] Award Ceremony in APEC 2026
 We are planning an Award Ceremony of MagNet Challenge 2 in APEC 2026. Please send an email to pelsmagnet@gmail.com with the following information:
