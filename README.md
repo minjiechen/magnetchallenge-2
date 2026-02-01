@@ -55,7 +55,7 @@
 ## [News #12] We have received final submissions from 32 teams ... 
 - Aalborg University 1 (Zhao), Denmark 🇩🇰 🌸 📝 💾
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸 📝 💾
-- Arizona State University, USA 🇺🇸 🌸 💾
+- Arizona State University, USA 🇺🇸 🌸 📝 💾
 - University of Bristol, UK 🇬🇧 🌸 📝 💾
 - University of Cambridge, UK 🇬🇧 🌸
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸 📝
