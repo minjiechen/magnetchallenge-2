@@ -4,7 +4,7 @@
 ## Presentation Sign-Up
 - Feb 9th (8 slots): Eindhoven, Hefei, Fuzhou, Tianjin
 - Feb 10th (8 slots): IIT, Hangzhou, UESTC, ASU, Southeast2
-- Feb 11th (8 slots): Gatech, XJTU2, AAU2, SiegenPaderborn
+- Feb 11th (8 slots): Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua
 - Feb 12th (8 slots): Leuven, SAL, Sydney
 
 ## [News #14] Code evaluation starts NOW. 
