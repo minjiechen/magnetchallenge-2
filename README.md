@@ -68,7 +68,7 @@
 - Huazhong University of Science and Technology, China 🇨🇳 🌸 📝
 - Indian Institute of Technology Dharwad, India 🇮🇳 🌸 📝 💾
 - KU Leuven, Belgium, 🇧🇪 🌸 📝 💾
-- University of Missouri Columbia, USA 🇺🇸 🌸
+- University of Missouri Columbia, USA 🇺🇸 🌸 📝 💾
 - National Institute of Technology Calicut (Muhammed), India 🇮🇳 🌸 📝 💾
 - Nanyang Technological University 1 (Yang), Singapore 🇸🇬 🌸 📝 💾
 - Nanyang Technological University 2 (Tang), Singapore 🇸🇬 🌸 📝 💾
