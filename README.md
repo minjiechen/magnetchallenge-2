@@ -2,7 +2,7 @@
 <img src="img/teams.jpg" width="800">
 
 ## Presentation Sign-Up
-- Feb 9th (8 slots): Eindhoven, Hefei, Fuzhou, Tianjin
+- Feb 9th (8 slots): Eindhoven, Hefei, Fuzhou, Tianjin, Southeast1
 - Feb 10th (8 slots): IIT, Hangzhou, UESTC, ASU, Southeast2, Cambridge
 - Feb 11th (8 slots): Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua
 - Feb 12th (8 slots): Leuven, SAL, Sydney
@@ -75,7 +75,7 @@
 - The Hong Kong Polytechnic University, Hong Kong SAR 🇭🇰 🌸 📝
 - Silicon Austria Labs, Austria 🇦🇹 🌸 📝 💾
 - Seigen & Paderborn, Germany 🇩🇪 🌸 📝 💾
-- Southeast University 1 (Cheng), China 🇨🇳 🌸 📝
+- Southeast University 1 (Cheng), China 🇨🇳 🌸 📝 💾
 - Southeast University 2 (Xu), China 🇨🇳 🌸 📝 💾
 - Tianjin University, China 🇨🇳 🌸
 - Tsinghua University, China 🇨🇳 🌸 📝 💾
