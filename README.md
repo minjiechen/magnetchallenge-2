@@ -77,7 +77,7 @@
 - Seigen & Paderborn, Germany 🇩🇪 🌸 📝 💾
 - Southeast University 1 (Cheng), China 🇨🇳 🌸 📝 💾
 - Southeast University 2 (Xu), China 🇨🇳 🌸 📝 💾
-- Tianjin University, China 🇨🇳 🌸
+- Tianjin University, China 🇨🇳 🌸 📝 💾
 - Tsinghua University, China 🇨🇳 🌸 📝 💾
 - Tokyo Metropolitan University, Japan 🇯🇵 🌸 📝 💾
 - University of Sydney, Australia 🇦🇺 🌸 📝 💾
