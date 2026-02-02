@@ -57,7 +57,7 @@
 - Aalborg University 2 (Davari), Denmark 🇩🇰 🌸 📝 💾
 - Arizona State University, USA 🇺🇸 🌸 📝 💾
 - University of Bristol, UK 🇬🇧 🌸 📝 💾
-- University of Cambridge, UK 🇬🇧 🌸
+- University of Cambridge, UK 🇬🇧 🌸 📝 💾
 - Eindhoven University of Technology, Netherland 🇳🇱 🌸 📝
 - Fujian University of Technology, China 🇨🇳 🌸 📝 💾
 - Fuzhou University, China 🇨🇳 🌸 📝 💾
