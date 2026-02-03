@@ -4,7 +4,7 @@
 ## Presentation Sign-Up
 - Feb 9th (8 slots): Eindhoven, Hefei, Fuzhou, Tianjin, Southeast1
 - Feb 10th (Full): IIT, Hangzhou, UESTC, ASU, Southeast2, Cambridge, AAU1, NITC
-- Feb 11th (8 slots): Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua, Zhejiang, NTU2, Bristol
+- Feb 11th (Full): Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua, Zhejiang, NTU2, Bristol
 - Feb 12th (8 slots): Leuven, SAL, Sydney, Mizzou, NTU1
 - Unconfirmed: FJUT, HUST, PolyU, XJTU1, Princeton, Tokyo
 
