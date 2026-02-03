@@ -4,9 +4,9 @@
 ## Presentation Sign-Up
 - Feb 9th (8 slots): Eindhoven, Hefei, Fuzhou, Tianjin, Southeast1
 - Feb 10th (Full): IIT, Hangzhou, UESTC, ASU, Southeast2, Cambridge, AAU1, NITC
-- Feb 11th (8 slots): Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua, Zhejiang
+- Feb 11th (8 slots): Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua, Zhejiang, NTU2
 - Feb 12th (8 slots): Leuven, SAL, Sydney, Mizzou
-- Unconfirmed: Bristol, FJUT, HUST, NTU1, NTU2, PolyU, XJTU1, Princeton, Tokyo
+- Unconfirmed: Bristol, FJUT, HUST, NTU1, PolyU, XJTU1, Princeton, Tokyo
 
 ## [News #14] Code evaluation starts NOW. 
 - Please email us your inference code and make them as compact and as easy to use as possible. 
