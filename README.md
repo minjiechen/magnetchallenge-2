@@ -82,7 +82,7 @@
 - Tsinghua University, China 🇨🇳 🌸 📝 💾
 - Tokyo Metropolitan University, Japan 🇯🇵 🌸 📝 💾
 - University of Sydney, Australia 🇦🇺 🌸 📝 💾
-- University of Electronic Science and Technology of China, China 🇨🇳 🌸 📝
+- University of Electronic Science and Technology of China, China 🇨🇳 🌸 📝 💾
 - Xi'an Jiaotong University 1 (Wei), China 🇨🇳 🌸 📝 💾
 - Xi'an Jiaotong University 2 (Zhu), China 🇨🇳 🌸 📝 💾
 - Zhejiang University, China 🇨🇳 🌸 📝 💾
