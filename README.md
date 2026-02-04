@@ -5,8 +5,8 @@
 - Feb 9th (8 slots): Eindhoven, Hefei, Fuzhou, Tianjin, Southeast1
 - Feb 10th (Full): IIT, Hangzhou, UESTC, ASU, Southeast2, Cambridge, AAU1, NITC
 - Feb 11th (Full): Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua, Zhejiang, NTU2, Bristol
-- Feb 12th (8 slots): Leuven, SAL, Sydney, Mizzou, NTU1
-- Unconfirmed: FJUT, HUST, PolyU, XJTU1, Princeton, Tokyo
+- Feb 12th (8 slots): Leuven, SAL, Sydney, Mizzou, NTU1, HUST
+- Unconfirmed: FJUT, PolyU, XJTU1, Princeton, Tokyo
 
 ## [News #14] Code evaluation starts NOW. 
 - Please email us your inference code and make them as compact and as easy to use as possible. 
