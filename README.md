@@ -2,7 +2,7 @@
 <img src="img/teams.jpg" width="800">
 
 ## Presentation Sign-Up
-- Feb 9: Eindhoven, Hefei, Fuzhou, Tianjin, Southeast1
+- Feb 9: Princeton, Eindhoven, Hefei, Fuzhou, Southeast1, Tianjin
 - Feb 10: IIT, Hangzhou, UESTC, ASU, Southeast2, Cambridge, AAU1, NITC
 - Feb 11: Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua, Zhejiang, NTU2, Bristol
 - Feb 12: Leuven, SAL, Sydney, Mizzou, NTU1, HUST, Tokyo
