@@ -1,7 +1,10 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## Presentation Sign-Up
+## [News #16] MagNet Challenge 2 Winners
+<img src="img/winners.jpg" width="800">
+
+## [News #15] Presentation Sign-Up
 - Feb 9: Princeton, Eindhoven, Hefei, Fuzhou, Southeast1, Tianjin
 - Feb 10: IIT, Hangzhou, UESTC, ASU, Southeast2, Cambridge, AAU1, NITC
 - Feb 11: Gatech, XJTU2, AAU2, SiegenPaderborn, Tsinghua, Zhejiang, NTU2, Bristol
