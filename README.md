@@ -1,8 +1,7 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
-## [News #16] MagNet Challenge 2 Winners
-- Pictures from the APEC Award Ceremony [Folder](https://www.dropbox.com/scl/fo/4x6cevzcule6wkry9dky1/ADXsC7HIWNR-bwZgeotJDzQ?rlkey=jyb8lzfkdcmt96caodfzfymw5&dl=0)
+## [News #16] MagNet Challenge 2 Winners [Pictures](https://www.dropbox.com/scl/fo/4x6cevzcule6wkry9dky1/ADXsC7HIWNR-bwZgeotJDzQ?rlkey=jyb8lzfkdcmt96caodfzfymw5&dl=0)
 <img src="img/winners.jpg" width="800">
 
 ## [News #15] Presentation Sign-Up
