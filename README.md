@@ -1,6 +1,9 @@
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
+## [News #17] APEC MagNet Challenge Keynote Slides
+- [APEC Keynote 2026](path/to/APEC%20Keynote%202026.pdf)
+
 ## [News #16] MagNet Challenge 2 Winners [Pictures](https://www.dropbox.com/scl/fo/4x6cevzcule6wkry9dky1/ADXsC7HIWNR-bwZgeotJDzQ?rlkey=jyb8lzfkdcmt96caodfzfymw5&dl=0)
 <img src="img/winners.jpg" width="800">
 
