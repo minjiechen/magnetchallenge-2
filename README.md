@@ -1,5 +1,5 @@
 # MagNet Challenge 2 Award Update
-- We apologize for the delay of the transfer of the award money to the prize winners. Due to the recent administrative change in IEEE, we are still working with IEEE to finalize the fund transfer to Princeton University. We anticipate to finish this process and start distributing the prize money before the end of the summer. 
+- We apologize for the delay of the transfer of the award money to the prize winners. Due to the recent administrative change in IEEE, we are still working with IEEE to finalize the fund transfer to Princeton University. We anticipate to finish this process and start distributing the prize money before the end of the summer. Stay tuned.
 
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
