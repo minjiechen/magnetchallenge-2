@@ -1,6 +1,8 @@
 # MagNet Challenge 2 Award Update
 - We apologize for the delay in disbursing the award money. There is a recent policy change and we are actively coordinating with IEEE to clear up administrative requirements and expect to issue payouts in November 2026. We will reach out to faculty advisors as soon as the funds are ready to be distributed. Apologize again and thank you for your patience!
 
+# [Final Evaluation Data Available] All final evaluation data available [Here](https://www.dropbox.com/scl/fo/en5z0mef5cub7q574cknf/AA7moyzEJDOC398WwhvLzJs?rlkey=n9r8jqk6azh461tmxy1ixr3vm&dl=0) for cross-checking. The same link was posted under [News #13] and was highlighted again here. 
+
 # MagNet Challenge 2 [GitHub](https://github.com/minjiechen/magnetchallenge-2)
 <img src="img/teams.jpg" width="800">
 
